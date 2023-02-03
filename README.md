@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @CamilaASantos
-- 👀 I’m interested in C, C++ anda java
+- 👋 Hi, I’m @CamilaASanto
+- 👀 I’m interested in C, C++ , java and SQL
 - 🌱 I’m currently learning POO
 
 
