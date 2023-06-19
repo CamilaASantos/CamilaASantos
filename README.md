@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @CamilaASanto
-- 👀 I’m interested in C, C++ , java and SQL
-- 🌱 I’m currently learning POO
+- UFABC BCC
 
 
 <!---
